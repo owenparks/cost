@@ -1,0 +1,24 @@
+-Locker contains note, better opening hook
+-Locker descriptions need to vary depending on player activities
+-Note with Jessamine's location
+-Envelope with official address and train tickets and instructions
+
+
+-Go through tavern into Alley
+-Meet Jess in Alley, unlocks location of suspects
+-
+
+TODO:
+- Chair tech:
+    - Sit in chair
+    - Sit down (works)
+
+Main Mystery            Backstory                   Events
+
+Prologue
+===========================================================
+Number on pager         "Clients" call pager        Get on train
+Going to UK                                         Show ticket to man
+Jessamine's number                                  Sleep
+
+Act I
